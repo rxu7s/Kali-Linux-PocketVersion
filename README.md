@@ -5,5 +5,5 @@
 * Installation requires multiple reboots
 * Supports Windows 10-11
 
-If any questions/problems contact me from here:
+If any questions/problems contact me from discord server.
 Discord: https://discord.gg/n2X6C7jKHe
