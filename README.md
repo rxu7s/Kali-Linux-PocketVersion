@@ -1,4 +1,7 @@
 # Win-KeX-ESM-WSL2-Kali-Linux-Automated-Batch-Installer
+
+** This application gives you an Kali linux OS thats more minimalist , useful , faster , easier
+
 ![image](https://user-images.githubusercontent.com/104208624/191356499-11872a64-5dcd-4cab-88d4-20129a43f8bc.png)
 
 * Needs multiple time reboot
