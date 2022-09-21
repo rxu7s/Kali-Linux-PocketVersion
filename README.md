@@ -6,4 +6,6 @@
 * Supports Windows 10-11
 
 After installation, run the Kali Linux application and type the following code: kex --esm --ip --sound
+
+
 If any questions/problems contact me: https://discord.gg/n2X6C7jKHe
